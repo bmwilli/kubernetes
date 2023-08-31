@@ -1,0 +1,8 @@
+export KUSTOM_HOME=$(pwd)
+export BASE=$KUSTOM_HOME/base
+export WORDPRESS_HOME=$BASE/wordpress
+#
+export MYSQL_HOME=$BASE/mysql
+#
+export OVERLAY_HOME=$BASE/../overlays
+export DEV_HOME=$OVERLAY_HOME/dev
